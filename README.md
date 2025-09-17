@@ -8,8 +8,15 @@ A MATLAB implementation of the FDK (Feldkamp-Davis-Kress) algorithm for 3D volum
 ---
 
 ### 📘 Citation / 引用本文  
-The formal citation information will be updated after the official publication of the associated work. Please check back for updates.  
-相关研究成果正式发表后，将补充完整引用信息，敬请关注后续更新。
+If this code is helpful in your research, please cite the following paper:  
+如果本代码对您的研究有所帮助，请引用以下论文：
+
+> Haixia Cui, Wanjiao Li, Qianxi Li, Shaolong Wang, Mingye Zhu, Yongjing Deng, Shujuan Liu, Qiang Zhao.  
+> **Highly Luminescent Organic-Inorganic Hybrid Antimony Halide Scintillators for Real-time Dynamic and 3D X-ray Imaging**.  
+> *Advanced Materials*, 2025.
+
+> *Note: Volume, issue, and DOI will be updated upon official publication.*  
+> 注：卷号、期号和DOI将在正式出版后补充。
 
 ---
 
