@@ -1,5 +1,5 @@
 # FDK 3D Reconstruction from 2D Projections  
-## 基于二维投影的FDK三维重建
+# 基于二维投影的FDK三维重建
 
 **Author: 崔海霞 (Cui Haixia)**  
 A MATLAB implementation of the FDK (Feldkamp-Davis-Kress) algorithm for 3D volume reconstruction from 2D X-ray projection images.  
@@ -13,7 +13,7 @@ If this code is helpful in your research, please cite the following paper:
 
 > Haixia Cui, Wanjiao Li, Qianxi Li, Shaolong Wang, Mingye Zhu, Yongjing Deng, Shujuan Liu, Qiang Zhao.  
 > **Highly Luminescent Organic-Inorganic Hybrid Antimony Halide Scintillators for Real-time Dynamic and 3D X-ray Imaging**.  
-> *Advanced Materials*, 2025.
+> *Light: Science & Applications*, 2025.
 
 > *Note: Volume, issue, and DOI will be updated upon official publication.*  
 > 注：卷号、期号和DOI将在正式出版后补充。
